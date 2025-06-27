@@ -1,5 +1,4 @@
-# Spotify Clone
-# 🎵 Spotify Music ProMax+ Clone 🎧
+  🎵 Spotify Music ProMax+ Clone 🎧
 
 A full-featured, modern, responsive **Spotify Music Website Clone** built using `HTML`, `CSS`, `JavaScript`, and `JSON` — with realistic audio playback, smart playlists, dark mode UI, and a professional-grade UX design inspired by Spotify itself.
 
