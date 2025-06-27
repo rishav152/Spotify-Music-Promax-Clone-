@@ -83,8 +83,8 @@ Spotify-Clone/
 ## 🙌 Author
 
 **Created by: Rishav Kumar  
-**GitHub:  
-**Live Demo:** *coming soon*
+**GitHub:  https://rishav152.github.io/Spotify-Music-Promax-Clone-/
+**Live Demo: https://rishav152.github.io/Spotify-Music-Promax-Clone-/
 
 ---
 
