@@ -1,0 +1,101 @@
+body {
+  background: linear-gradient(#121212, #000000);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  width: 400px;
+  padding: 20px;
+  background: #121212;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 60px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.social-btn {
+  width: 100%;
+  background: #222;
+  border: 1px solid #555;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.social-btn img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.divider hr {
+  flex: 1;
+  border: none;
+  border-top: 1px solid #555;
+}
+
+.divider span {
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.main-btn {
+  width: 100%;
+  background: #1ed760;
+  border: none;
+  padding: 14px;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.signup-link {
+  font-size: 14px;
+}
+.signup-link a {
+  color: #1ed760;
+  text-decoration: none;
+  font-weight: bold;
+}
